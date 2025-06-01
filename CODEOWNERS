@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @cocreatorr
+/src/backend/database.py      @cocreatorr
+/src/backend/routers/auth.py  @cocreatorr
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @cocreatorr
